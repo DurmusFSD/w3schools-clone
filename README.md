@@ -1,11 +1,10 @@
 # w3schools-clone-website
 HTML, CSS, JS
 
-Link : https://w3schools-clone-website.vercel.app/
+![Demo](gif.gif)
 
-![Demo](https://github.com/IsAmitprajapati/w3schools-clone-website/blob/main/demo.mp4)
+![Demo](1.png)
 
-W3Schools is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and .
+![Demo](2.png)
 
 
-# w3schools-clone
